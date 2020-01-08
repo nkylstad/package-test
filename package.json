@@ -11,5 +11,5 @@
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/nkylstad/package-test.git"
-  }
+  },
 }
