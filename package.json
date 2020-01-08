@@ -1,0 +1,15 @@
+{
+  "name": "@nkylstad/package-test",
+  "version": "0.0.1",
+  "description": "Testing some package",
+  "main": "src/index.js",
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/nkylstad/package-test.git"
+  }
+}
